@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Poo.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Poo.Models": "1.0.0"
+        },
+        "runtime": {
+          "Poo.ConsoleApp.dll": {}
+        }
+      },
+      "Poo.Models/1.0.0": {
+        "runtime": {
+          "Poo.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poo.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Poo.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

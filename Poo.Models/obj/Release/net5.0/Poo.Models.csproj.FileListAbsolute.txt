@@ -1,0 +1,11 @@
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\bin\Release\net5.0\Poo.Models.deps.json
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\bin\Release\net5.0\Poo.Models.dll
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\bin\Release\net5.0\ref\Poo.Models.dll
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\bin\Release\net5.0\Poo.Models.pdb
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\obj\Release\net5.0\Poo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\obj\Release\net5.0\Poo.Models.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\obj\Release\net5.0\Poo.Models.AssemblyInfo.cs
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\obj\Release\net5.0\Poo.Models.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\obj\Release\net5.0\Poo.Models.dll
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\obj\Release\net5.0\ref\Poo.Models.dll
+C:\Users\Mati\Desktop\POO Ejercicios\Poo.Models\obj\Release\net5.0\Poo.Models.pdb
